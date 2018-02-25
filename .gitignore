@@ -6,3 +6,7 @@ dist
 
 # Ignore logs
 npm-debug.log
+
+# Ignore sublime files
+*.sublime-project
+*.sublime-workspace
